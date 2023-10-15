@@ -8,11 +8,11 @@ from bs4 import BeautifulSoup
 
 #get these api values from telegram website
 
-api_id = your telegram api id here #don't use quote
-api_hash = "paste your api hash"
+api_id = 16403576 #don't use quote
+api_hash = "1ea4a07bb76422ac783defd8477adddc"
 
 #Spotify api uid
-uid="paste your uid"
+uid="31dldizp7kobgvdfb4or4brza5ca"
 
 
 
